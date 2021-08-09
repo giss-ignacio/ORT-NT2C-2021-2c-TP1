@@ -11,3 +11,5 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 
 # PARTICIPANTES
 Leandro Galanterni - lgalant - leandro.galanterni@ort.edu.ar
+
+Ezequiel Hertzulis - ezehertz - ezehertz@gmail.com
