@@ -12,4 +12,4 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 # PARTICIPANTES
 Leandro Galanterni - lgalant - leandro.galanterni@ort.edu.ar
 
-Nicolás Billán - nicolasbillan - billan.njd@hotmail.com
+Nicolás Billán - nicolasbillan - billan.njd@gmail.com
