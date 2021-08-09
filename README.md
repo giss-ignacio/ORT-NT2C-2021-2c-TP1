@@ -10,4 +10,5 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Hacer un Pull Request a la rama principal MASTER.
 
 # PARTICIPANTES
-Leandro Galanterni - lgalant - leandro.galanterni@ort.edu.ar
+Leandro Galanterni - lgalant - leandro.galanterni@ort.edu.ar\
+Nicolás Hertzulis - hertzuort - nicohertzulis@gmail.com
