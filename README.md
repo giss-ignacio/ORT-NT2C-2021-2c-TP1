@@ -12,4 +12,6 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 # PARTICIPANTES
 Leandro Galanterni - lgalant - leandro.galanterni@ort.edu.ar
 
+Santiago Cartagena - santicna - scartagena147@gmail.com
+
 Nicolás Billán - nicolasbillan - billan.njd@gmail.com
