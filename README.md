@@ -13,3 +13,4 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 Leandro Galanterni - lgalant - leandro.galanterni@ort.edu.ar
 Ignacio Giss - giss-ignacio - giss.ignacio@gmail.com
 Santiago Cartagena - santicna - scartagena147@gmail.com
+Iñaki Echazarreta - IEchaza90 - echazarreta90@gmail.com
