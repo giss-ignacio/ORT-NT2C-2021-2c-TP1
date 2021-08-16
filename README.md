@@ -17,4 +17,5 @@ Ignacio Giss - giss-ignacio - giss.ignacio@gmail.com\
 Santiago Cartagena - santicna - scartagena147@gmail.com\
 Nicolás Hertzulis - hertzuort - nicohertzulis@gmail.com\
 Iñaki Echazarreta - IEchaza90 - echazarreta90@gmail.com\
+Nicolás Billán - nicolasbillan - billan.njd@gmail.com\
  
