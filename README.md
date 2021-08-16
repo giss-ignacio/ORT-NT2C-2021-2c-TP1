@@ -10,12 +10,13 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Hacer un Pull Request a la rama principal MASTER.
 
 # PARTICIPANTES
+ 
 Leandro Galanterni - lgalant - leandro.galanterni@ort.edu.ar\
 Eduardo Leon - EduLeon12 - eduleon94@gmail.com\
 Julieta Sabin - sabisabi00 - julysabininaba@gmail.com\
 Ignacio Giss - giss-ignacio - giss.ignacio@gmail.com\
 Santiago Cartagena - santicna - scartagena147@gmail.com\
 Nicolás Hertzulis - hertzuort - nicohertzulis@gmail.com\
+Ezequiel Hertzulis - ezehertz - ezehertz@gmail.com\
 Iñaki Echazarreta - IEchaza90 - echazarreta90@gmail.com\
 Nicolás Billán - nicolasbillan - billan.njd@gmail.com\
- 
